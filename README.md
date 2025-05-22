@@ -24,14 +24,14 @@ uno a molti:
 Rubrica_Login(1,1) Rubrica(0,N)
 
 La folder structure è la seguente dove, Routes e Models contengono il codice vero e proprio per registrazione login e aggiungere rubriche:
-
-├── app/
-│   ├── __init__.py
-│   ├── routes.py
-│   ├── models.py
-│   └── templates/
-│       ├── login.html
-│       ├── index.html
-│       └── form.html
-├── config.py
-└── run.py
+            
+            ├── app/
+            │   ├── __init__.py
+            │   ├── routes.py
+            │   ├── models.py
+            │   └── templates/
+            │       ├── login.html
+            │       ├── index.html
+            │       └── form.html
+            ├── config.py
+            └── run.py
