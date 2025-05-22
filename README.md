@@ -1,4 +1,4 @@
-Open Visual Studio Code, Create a Python environment/Folder of you preference, eg:
+Open Visual Studio Code, Create a Python environment/Folder of your preference, eg:
    python -m venv Prova 
 
    
